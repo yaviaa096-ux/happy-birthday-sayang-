@@ -340,7 +340,7 @@ const LoveMeterStep = ({ onComplete }: { onComplete: () => void }) => {
 
 // --- Step 4: Typewriter ---
 const TypewriterStep = ({ onComplete }: { onComplete: () => void }) => {
-    const text = "Selamat Ulang Tahun ayy!!!!";
+    const text = "Selamat Ulang Tahun ayy!!!! terimakasi ya udah bertahan sejauh ini.di umur kamu sekarang semoga langkah kamu di permudah untuk mencapai semua keinginan kamu,sehat selalu dan bahagia selalu ya";
     const [displayedText, setDisplayedText] = useState("");
     const [isDeleting, setIsDeleting] = useState(false);
 
